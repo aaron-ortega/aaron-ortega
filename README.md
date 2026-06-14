@@ -17,5 +17,5 @@ I turn messy, scattered data into reliable, well-tested pipelines that teams can
 
 <p align="center">
   <a href="https://linkedin.com/in/aortega04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:aaortega18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://aaron-ortega.github.io/"><img src="https://img.shields.io/badge/Website-211f2b"></a>
 </p>
